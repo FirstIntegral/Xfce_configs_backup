@@ -6,7 +6,6 @@ BACKUP_FILENAME="xfce_backup_$(date '+%Y-%m-%d').tar.gz"
 
 # listing the files/file paths for the backup
 FILES_TO_BACKUP=(
-  "$HOME/.config/xfce4/"
   "$HOME/.config/xfce4/panel/"
   "$HOME/.config/xfce4/session/"
   "$HOME/.config/xfce4/xfconf/xfce-perchannel-xml/xfwm4.xml"
