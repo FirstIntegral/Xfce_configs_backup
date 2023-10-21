@@ -4,9 +4,6 @@ This repo contains a script to backup important XFCE configuration files and dir
 
 The backup script currently covers:
 
-    Main XFCE Settings:
-        ~/.config/xfce4/
-
     Panel Configurations:
         ~/.config/xfce4/panel/
 
