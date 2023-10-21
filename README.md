@@ -43,6 +43,9 @@ Usage
 
     2- Automated Backups:
     A cron job has been set up to run this script every day at 9 PM. You can adjust this timing in your crontab if needed.
+        crontab -e
+        then add the following line to schedule the backup:
+        0 21 * * * /path/to/xfce_backup.sh >> /home/yourusername/xfce_backup.log 2>&1
 
     3- Backup File:
     After execution, the script will generate a .tar.gz file in your home directory with the format xfce_backup_YYYY-MM-DD.tar.gz.
