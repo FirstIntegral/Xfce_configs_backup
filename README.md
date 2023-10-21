@@ -13,9 +13,6 @@ The backup script currently covers:
     Window Manager Settings (xfwm4):
         ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfwm4.xml
 
-    Channel-based Settings:
-        ~/.config/xfce4/xfconf/xfce-perchannel-xml/
-
     Power Manager:
         ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-power-manager.xml
 

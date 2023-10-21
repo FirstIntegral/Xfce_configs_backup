@@ -9,7 +9,6 @@ FILES_TO_BACKUP=(
   "$HOME/.config/xfce4/panel/"
   "$HOME/.config/xfce4/session/"
   "$HOME/.config/xfce4/xfconf/xfce-perchannel-xml/xfwm4.xml"
-  "$HOME/.config/xfce4/xfconf/xfce-perchannel-xml/"
   "$HOME/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-power-manager.xml"
   "$HOME/.local/share/xfce4/"
   "$HOME/.config/Thunar/"
